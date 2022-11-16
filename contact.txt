@@ -1,1 +1,2 @@
 This is Line 1 of contact file 
+Adding a line 2
